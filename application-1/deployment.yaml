@@ -3,7 +3,7 @@ kind: Deployment
 
 metadata:
   name: my-web
-  namespace: gjkim
+  namespace: bsw
 
 spec:
   replicas: 2
