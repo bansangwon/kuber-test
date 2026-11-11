@@ -3,7 +3,7 @@ kind: Service
 
 metadata:
   name: my-web-service
-  namespace: gjkim
+  namespace: bsw
 
 spec:
   type: NodePort
